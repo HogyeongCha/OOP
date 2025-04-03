@@ -9,7 +9,6 @@ public class LA3 {
 
         System.out.print("Enter the amount in KRW : ");
         won = scanner.nextDouble();
-
         dollar = won / 1458.55;
         System.out.print("You will receive: " + dollar);
     }
